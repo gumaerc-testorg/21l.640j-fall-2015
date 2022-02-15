@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Calendar and Readings
+parent_type: CourseSection
 parent_uid: 87fb59d7-ba9f-5126-6829-f77507549528
 title: Framing Questions
 uid: c883a26d-5f46-e225-aec7-cf0a31dfd278

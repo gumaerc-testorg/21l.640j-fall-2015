@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 48a427a7-4c61-1df8-5959-8ed45bc12a18
 title: Student Work
 uid: b80b9191-9f97-a93e-350e-4f9afa1115ca
