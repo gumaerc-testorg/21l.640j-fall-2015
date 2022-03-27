@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
+parent_uid: 87fb59d7-ba9f-5126-6829-f77507549528
 resourcetype: Document
 title: "21L.640F15 Framing Questions for the Book Castillos de Cart\xF3n from pages\
   \ 66-116"

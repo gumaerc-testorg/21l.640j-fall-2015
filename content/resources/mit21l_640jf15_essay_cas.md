@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 48a427a7-4c61-1df8-5959-8ed45bc12a18
 resourcetype: Document
 title: "21L.640 F15 Essay assignment on the book Castillos de Cart\xF3n"
 uid: b8af1a7d-6341-3c76-25b2-4fe6d662d7b5

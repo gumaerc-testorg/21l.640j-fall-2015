@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
+parent_uid: 87fb59d7-ba9f-5126-6829-f77507549528
 resourcetype: Document
 title: 21L.640 F15 Questions for the Movie Todo sobre mi madre
 uid: 2f2195df-4f74-cfa4-7b8a-45f6b596dd3b

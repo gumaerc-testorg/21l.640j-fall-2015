@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
+parent_uid: b80b9191-9f97-a93e-350e-4f9afa1115ca
 resourcetype: Document
 title: MIT 21L.640 F15 Student Presentation on Catalonia
 uid: fb1735b8-80ba-bfc7-2a7e-c8b332d9cb67

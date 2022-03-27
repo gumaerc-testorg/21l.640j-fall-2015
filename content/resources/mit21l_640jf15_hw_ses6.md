@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 48a427a7-4c61-1df8-5959-8ed45bc12a18
 resourcetype: Document
 title: 21L.640 F15 Homework Assignment 6
 uid: a53f98c0-c788-cd77-40c9-b674833fc324
