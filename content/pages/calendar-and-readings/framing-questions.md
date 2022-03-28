@@ -12,9 +12,9 @@ uid: c883a26d-5f46-e225-aec7-cf0a31dfd278
 
 Questions for _Castillos de Cartón_:
 
-*   [Part 1 (through page 65) (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_cas1)
-*   [Part 2 (from pages 66-116) (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_cas2)
+*   {{< resource_link b857ecfd-f074-3893-1b9c-611cc3021486 "Part 1 (through page 65) (PDF)" >}}
+*   {{< resource_link 652aa7f7-7177-ddb3-e205-ca0d8e198007 "Part 2 (from pages 66-116) (PDF)" >}}
 
-[Questions for _Juego de noches. Nueve obras en un acto._ (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_juego)
+{{< resource_link 5d80f27f-8440-b85d-6e12-b478658d4e0e "Questions for _Juego de noches. Nueve obras en un acto._ (PDF)" >}}
 
-[Questions for the film _Todo sobre mi madre_. (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_todo)
+{{< resource_link 2f2195df-4f74-cfa4-7b8a-45f6b596dd3b "Questions for the film _Todo sobre mi madre_. (PDF)" >}}
