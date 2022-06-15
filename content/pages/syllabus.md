@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, materials, requirements, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 0a8fb06a-5893-0131-20ef-66981d0ad950
 ---
@@ -39,7 +40,7 @@ Pedrero, Paloma. _Juego de noches. Nueve obras en un acto_. Catedra, 1999. ISBN:
 
 Tremlett, Giles. _Ghosts of Spain: Travels Through Spain and Its Silent Past_. Walker Books, 2008. ISBN: 9780802716743.
 
-See the {{< resource_link 87fb59d7-ba9f-5126-6829-f77507549528 "Readings" >}} section for a list of the readings used in class.
+See the {{% resource_link 87fb59d7-ba9f-5126-6829-f77507549528 "Readings" %}} section for a list of the readings used in class.
 
 The movies must be seen before the class date when they will be discussed. Finally, it is important that you read [_El País_](http://elpais.com/elpais/portada_america.html) so that we can discuss the way contemporary Spaniards view their own and international politics. Reading _El País_ will be an essential part of the subject.
 

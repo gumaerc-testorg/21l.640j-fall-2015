@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21l-640j-the-new-spain-1977-present-fall-2015/8725261a5c7fe0364d2771a1ff822cad_MIT21L_640JF15_HW_ses5.pdf
+file: /courses/21l-640j-the-new-spain-1977-present-fall-2015/8725261a5c7fe0364d2771a1ff822cad_MIT21L_640JF15_HW_ses5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

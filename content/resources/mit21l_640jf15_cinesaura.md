@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21l-640j-the-new-spain-1977-present-fall-2015/831f9b3329cb9e2af249013787d808c1_MIT21L_640JF15_CineSaura.pdf
+file: /courses/21l-640j-the-new-spain-1977-present-fall-2015/831f9b3329cb9e2af249013787d808c1_MIT21L_640JF15_CineSaura.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
