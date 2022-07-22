@@ -5,6 +5,7 @@ file: /courses/21l-640j-the-new-spain-1977-present-fall-2015/2f2195df4f74cfa47b8
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
