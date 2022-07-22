@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, readings, homework
+  assignments, and key dates. Citations and links are included for the course textbooks
+  and other readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Calendar and Readings
 uid: 87fb59d7-ba9f-5126-6829-f77507549528
 ---
@@ -80,7 +86,7 @@ Contestar preguntas
 *   \[El dueño\] Las 1 eras 5 capítulos
 *   \[Ghosts\] capítulo 3
 
-[Guide to reading \[El dueño\] (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_du)
+{{% resource_link "5d139fa6-8eb4-4e34-84b5-d51b1a0b8069" "Guide to reading \[El dueño\] (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -155,7 +161,7 @@ Artículos sobre Almódovar:
 
 ### Repasar
 
-*   La nueva constitución-in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[English (PDF)](http://www.congreso.es/constitucion/ficheros/c78/cons_ingl.pdf) and en [español](http://noticias.juridicas.com/base_datos/Admin/constitucion.tp.html)
+*   La nueva constitución-in [English (PDF)](http://www.congreso.es/constitucion/ficheros/c78/cons_ingl.pdf) and en [español](http://noticias.juridicas.com/base_datos/Admin/constitucion.tp.html)
 *   Bonsaidelainformacion. "[CONSTITUCIÓN-ESPAÑA: Consenso… con reclamo de cambiosas](https://bonsaidelainformacion.wordpress.com/2008/12/05/constitucion-espana-consenso%E2%80%A6-con-reclamo-de-cambios/)." _El Bonsai de la información_. (2008).
 *   Bueno, Gustavo. "[Ante la reforma de la Constitución de 1978](http://www.nodulo.org/ec/2004/n025p02.htm)." _El Catoblepas: revista del presente_ 25, no. 2 (2004): 2.
 

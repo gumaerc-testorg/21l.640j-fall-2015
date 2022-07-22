@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the homework assignments for the course, associated
+  files, and details on the final project.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 48a427a7-4c61-1df8-5959-8ed45bc12a18
 ---
@@ -9,7 +14,7 @@ Final Portfolio
 
 Each of you will choose a topic you would like to research throughout the semester. The final project for the class is a portfolio of that research with a two-page overview of your topic that shows how the research you have done has shaped your thoughts on the subject. There will be times in class when we discuss each student's ongoing research. In the past students have chosen topics ranging from changes in post-Franco Spain regarding gender politics, clean-energy policy, theater, art, the economy, fashion, the church, etc. I want this class to give each of you the opportunity to study something that truly interests you. When there are be significant viewing requirements in the evening, we will not have class that day.
 
-[Final Portfolio Guidelines (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_portfolio)
+{{% resource_link fb0eb58c-75ef-2232-e55f-ff363a87a79d "Final Portfolio Guidelines (PDF)" %}}
 
 Weekly Homework Assignments
 ---------------------------
@@ -29,7 +34,7 @@ TOPICS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework Assignment 1 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses1)
+{{% resource_link 9b91bc39-8009-dc98-e34b-836af04fea44 "Homework Assignment 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -44,8 +49,7 @@ Ibañez Martín
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework Assignment 2 (PDF)  
-]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses2)
+{{% resource_link "930b4c9f-4215-a880-441f-64ba3b7c70fa" "Homework Assignment 2 (PDF)   " %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Capítulo 3 en _Ghosts of Spain_
@@ -54,7 +58,7 @@ Capítulo 3 en _Ghosts of Spain_
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework Assignment 3 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses3)
+{{% resource_link 35ab1e70-88b8-99af-fe17-7ee4ebecce61 "Homework Assignment 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 _El dueño del secreto_
@@ -63,7 +67,7 @@ _El dueño del secreto_
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework Assignment 4 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses4)
+{{% resource_link 50f68d27-0cb5-f1fe-e879-98d8a99f7e0a "Homework Assignment 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Film: ¿_Qué he hecho para merecer esto?_
@@ -74,9 +78,9 @@ Film: ¿_Qué he hecho para merecer esto?_
 {{< tdopen >}}
 
 
-[Homework Assignment 5 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses5)
+{{% resource_link 8725261a-5c7f-e036-4d27-71a1ff822cad "Homework Assignment 5 (PDF)" %}}
 
-[Essay on _Castillos de Cartón_ (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_essay_cas)
+{{% resource_link b8af1a7d-6341-3c76-25b2-4fe6d662d7b5 "Essay on _Castillos de Cartón_ (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -87,7 +91,7 @@ _Castillos de cartón_ pp. 1–87
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework Assignment 6 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses6)
+{{% resource_link a53f98c0-c788-cd77-40c9-b674833fc324 "Homework Assignment 6 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -102,7 +106,7 @@ Film: _Mujeres al borde de un ataque de nervios_
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework Assignment 7 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses7)
+{{% resource_link f799509d-f49a-2014-0b31-a1a4a34cfc4b "Homework Assignment 7 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -117,7 +121,7 @@ _Castillos de cartón_
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework Assignment 8 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses8)
+{{% resource_link 1e7ca91e-1e4a-cacc-30b7-ab6973566491 "Homework Assignment 8 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -132,7 +136,7 @@ Capítulo 7 en _Ghosts of Spain_
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework Assignment 9 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses9)
+{{% resource_link 500b6783-9c3c-85f9-9982-2c33aa7350f4 "Homework Assignment 9 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -147,7 +151,7 @@ Film: _Volver_
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework Assignment 10 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses10)
+{{% resource_link 9c785c30-04bf-c899-128f-a75755e66ebb "Homework Assignment 10 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
