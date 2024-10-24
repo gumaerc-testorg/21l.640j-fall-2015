@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21l-640j-the-new-spain-1977-present-fall-2015/652aa7f77177ddb3e205ca0d8e198007_MIT21L_640JF15_Cas2.pdf
+file: /ol-ocw-studio-app/courses/21l-640j-the-new-spain-1977-present-fall-2015/652aa7f77177ddb3e205ca0d8e198007_MIT21L_640JF15_Cas2.pdf
 file_size: 247284
 file_type: application/pdf
 learning_resource_types:
