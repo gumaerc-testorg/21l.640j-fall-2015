@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding the new Spain: Annotated
   bibliography.'
-file: /ol-ocw-studio-app/courses/21l-640j-the-new-spain-1977-present-fall-2015/602424f33c25eec3c3ddd3c99de21273_MIT21L_640JF15_Bibliogrphy.pdf
+file: /courses/21l-640j-the-new-spain-1977-present-fall-2015/602424f33c25eec3c3ddd3c99de21273_MIT21L_640JF15_Bibliogrphy.pdf
 file_size: 419515
 file_type: application/pdf
 learning_resource_types: []

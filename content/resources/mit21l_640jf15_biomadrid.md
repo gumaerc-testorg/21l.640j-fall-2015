@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource has content related to Biotecnolog\xEDa en las secuelas\
   \ de Franco."
-file: /ol-ocw-studio-app/courses/21l-640j-the-new-spain-1977-present-fall-2015/62ffdd9dea80f86497e219f8577b8ad6_MIT21L_640JF15_BioMadrid.pdf
+file: /courses/21l-640j-the-new-spain-1977-present-fall-2015/62ffdd9dea80f86497e219f8577b8ad6_MIT21L_640JF15_BioMadrid.pdf
 file_size: 573509
 file_type: application/pdf
 learning_resource_types: []
